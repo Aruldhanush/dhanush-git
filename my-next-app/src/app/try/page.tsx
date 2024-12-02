@@ -2,7 +2,7 @@ import React from 'react'
 import "./style.css"
 const page = () => {
   return (
-    <div className="page">page</div>
+    <div className="page">ArulDhanush</div>
   )
 }
 
