@@ -2,7 +2,11 @@ import React from 'react'
 import "./style.css"
 const page = () => {
   return (
-    <div className="page">ArulDhanush S R</div>
+    <div >ArulDhanush S R
+    <p className="page">hello</p>
+    <p>dgygv</p>
+    </div>
+    
   )
 }
 
